@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'e-pay-backEnd'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0CC4DC56BC134BC882E537862F4034B9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_301DD0730C93470DA09D06BEBF4ADCD1 }}
           package: .
